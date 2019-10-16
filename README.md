@@ -1,4 +1,4 @@
-![banner](https://github.com/tinhb92/tay_quen/blob/master/vovinam.jpg)
+![banner](https://github.com/tinhb92/tay_quen/blob/master/poster.jpg)
 
 # tay_quen
 Trăm hay không bằng tay quen. 
